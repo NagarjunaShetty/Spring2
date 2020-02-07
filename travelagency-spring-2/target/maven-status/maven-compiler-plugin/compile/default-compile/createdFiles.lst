@@ -1,0 +1,5 @@
+com\travelagency\dev\dao\TravelDao.class
+com\travelagency\dev\tester\SpringTester.class
+com\travelagency\dev\dao\TravelDAOImpl.class
+com\travelagency\dev\dto\TravelDTO.class
+com\travelagency\dev\tester\HibernateTester.class
